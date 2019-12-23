@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Podcast</string>
+    <string name="Choose">choose image</string>
+    <string name="Upload">upload image</string>
+    <string name="display">View all</string>
+    <string name="forward">Forward</string>
+    <string name="rewind">Rewind</string>
+    <string name="pause">Pause</string>
+    <string name="back">Back</string>
+    <string name="vpodtxt">VPOD</string>
+</resources>
